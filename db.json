@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "roles": [
+    { "id": 1, "title": "mock data for pms", "author": "pms" }
   ],
-  "comments": [
+  "users": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "typicode" }
