@@ -1,6 +1,6 @@
 {
   "roles": [
-    { "id": 1, "title": "mock data for pms", "author": "pms" }
+    { "id": 1, "title": "mock data for cpma", "author": "pms" }
   ],
   "users": [
     { "id": 1, "body": "some comment", "postId": 1 }
